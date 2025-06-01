@@ -1,0 +1,5 @@
+transformers
+openai
+pandas
+selenium
+jupyter
